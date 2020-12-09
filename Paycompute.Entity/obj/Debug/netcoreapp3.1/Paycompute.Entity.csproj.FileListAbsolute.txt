@@ -1,0 +1,9 @@
+E:\NobleTec\LearningProjects\ASP .net core\Paycompute.Entity\bin\Debug\netcoreapp3.1\Paycompute.Entity.deps.json
+E:\NobleTec\LearningProjects\ASP .net core\Paycompute.Entity\bin\Debug\netcoreapp3.1\Paycompute.Entity.dll
+E:\NobleTec\LearningProjects\ASP .net core\Paycompute.Entity\bin\Debug\netcoreapp3.1\Paycompute.Entity.pdb
+E:\NobleTec\LearningProjects\ASP .net core\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.csprojAssemblyReference.cache
+E:\NobleTec\LearningProjects\ASP .net core\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.AssemblyInfoInputs.cache
+E:\NobleTec\LearningProjects\ASP .net core\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.AssemblyInfo.cs
+E:\NobleTec\LearningProjects\ASP .net core\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.csproj.CoreCompileInputs.cache
+E:\NobleTec\LearningProjects\ASP .net core\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.dll
+E:\NobleTec\LearningProjects\ASP .net core\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.pdb
