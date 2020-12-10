@@ -11,7 +11,6 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-PayCompute-C848208A-CA6D-4EEA-9836-F5CBD8E9D98C")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("PayCompute")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
