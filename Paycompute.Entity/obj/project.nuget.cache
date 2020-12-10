@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "45h4CIQCoi0wX1Ua4JeQh5EUcDOoY3ZOGzd9qgGxxPa2po432HivlivGiDd4ixEzCkzkRdIKYpJ4KaOel1BWpA==",
+  "dgSpecHash": "F5g8ZKTrAzUJaDsif0mya7r4jY2oMBGxcRNRxy1RRgVUV3XBFcRPvd1RXjrrl7v0PpHgOQL6M5BKECZsxYfqlw==",
   "success": true,
-  "projectFilePath": "E:\\NobleTec\\LearningProjects\\ASP .net core\\Paycompute.Entity\\Paycompute.Entity.csproj",
+  "projectFilePath": "E:\\NobleTec\\LearningProjects\\ASP .net core\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gcifl\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.10\\microsoft.aspnetcore.cryptography.internal.3.1.10.nupkg.sha512",
     "C:\\Users\\gcifl\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.10\\microsoft.aspnetcore.cryptography.keyderivation.3.1.10.nupkg.sha512",

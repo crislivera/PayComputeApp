@@ -5753,11 +5753,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NobleTec\\LearningProjects\\ASP .net core\\Paycompute.Entity\\Paycompute.Entity.csproj",
+      "projectUniqueName": "E:\\NobleTec\\LearningProjects\\ASP .net core\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj",
       "projectName": "Paycompute.Entity",
-      "projectPath": "E:\\NobleTec\\LearningProjects\\ASP .net core\\Paycompute.Entity\\Paycompute.Entity.csproj",
+      "projectPath": "E:\\NobleTec\\LearningProjects\\ASP .net core\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj",
       "packagesPath": "C:\\Users\\gcifl\\.nuget\\packages\\",
-      "outputPath": "E:\\NobleTec\\LearningProjects\\ASP .net core\\Paycompute.Entity\\obj\\",
+      "outputPath": "E:\\NobleTec\\LearningProjects\\ASP .net core\\PaycomputeApp\\Paycompute.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5813,7 +5813,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
